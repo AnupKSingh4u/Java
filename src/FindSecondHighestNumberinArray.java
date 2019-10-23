@@ -29,6 +29,8 @@ public class FindSecondHighestNumberinArray {
         
          System.out.println(Sec_highest);
          System.out.println(highest);
+         System.out.println(highest);
+         
 	}
 
 }
